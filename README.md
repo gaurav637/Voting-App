@@ -53,18 +53,11 @@ This is a backend application for a voting system where users can vote for candi
     node server.js
     ```
 
-## API Endpoints
 
-### Authentication
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request.
 
-#### Sign Up
+### Happy voting!
 
-- **URL:** `POST /signup`
-- **Description:** Sign up a user
-- **Request Body:**
-  ```json
-  {
-    "aadhar": "123456789012",
-    "password": "your_password",
-    "name": "your_name"
-  }
+This `README.md` file provides a clear and comprehensive guide for setting up, using, and contributing to the Voting Application.
+
